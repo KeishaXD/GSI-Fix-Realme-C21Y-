@@ -1,7 +1,6 @@
-id=template
-name=Template Module
+id=rc21y_fix
+name=Gsi Fix Realme C21Y 
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-template=3
+author=Keisha XD
+description=Bug Fix For GSI on Realme C21Y 
